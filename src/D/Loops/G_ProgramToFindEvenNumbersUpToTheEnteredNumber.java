@@ -1,7 +1,5 @@
 package D.Loops;
-
 import java.util.Scanner;
-
 public class G_ProgramToFindEvenNumbersUpToTheEnteredNumber {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
